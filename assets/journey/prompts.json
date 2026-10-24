@@ -1,0 +1,33 @@
+{
+  "mode": "Built-in image_gen; four separate generated service photographs, not customer photos.",
+  "references": [
+    "../original-totes.png (actual product geometry)",
+    "../original-logo.jpg (original brand design)",
+    "01-deliver.png (cast and photographic continuity)"
+  ],
+  "assets": [
+    {
+      "file": "01-deliver.png",
+      "prompt": "Use case: photorealistic-natural. Generate ONE standalone portrait 3:4 editorial photograph, scene 1 of a coherent four-image moving-service storyboard for Borrow A Box, New Jersey. Reference image 1 is the actual product: preserve its grey ribbed rigid plastic attached-lid totes, small blue/black Borrow A Box stickers and low black four-wheel dolly. Reference image 2 is ONLY the original logo design for those small stickers; never redesign it. Scene: We deliver. A friendly adult courier, short dark hair, light stubble, cobalt-blue work overshirt, dark trousers, is rolling a stack of three CLOSED grey totes on their black dolly to a welcoming New Jersey townhouse front door. An adult woman, shoulder-length brown hair, cream long-sleeve shirt and blue jeans, welcomes the delivery from the doorway. Emphasize the real-sized totes (about 22 by 15.5 by 13 inches), genuine handles and hinges. Candid documentary photography, eye-level 35mm, soft late-morning daylight, natural skin and fabric, warm light oak/cream home details, restrained blue and grey palette. Physical and believable, premium moving-service campaign, not a stock-photo handshake. Full composition must survive a centered 1:1 crop for the website. Keep faces and key tote action in center 75%; no cropping heads or hands, believable hands. No overlays, no headline, no numbers, no collage, no border, no watermark. No cardboard boxes or other logos. This image establishes the cast and styling for later packing/unpacking/pickup photographs."
+    },
+    {
+      "file": "02-pack.png",
+      "prompt": "Create ONE photorealistic portrait 3:4 editorial photograph, scene 2 of Borrow A Box moving-service storyboard: YOU PACK. Use image1 as strict cast/color continuity: same brown-haired woman in cream long sleeve shirt and blue jeans. Use image2 for exact grey ribbed attached-lid plastic tote geometry and image3 original logo for small stickers only. Inside her old cream-and-oak New Jersey home, she carefully places folded clothes into an OPEN grey reusable tote on a low bench; a few books already inside, two closed matching totes alongside. Both hinged lid halves visibly fold outward, physically believable. Candid premium documentary campaign, 35mm eye-level, soft late-morning daylight, restrained blue grey warm cream palette, natural hands/skin. Woman and tote action centered, survive center square crop, realistic tote scale 22x15.5x13 inches. No cardboard, overlays, headline, numbers, watermark, collage or extra logos. Match first scene photographic quality."
+    },
+    {
+      "file": "03-unpack.png",
+      "prompt": "Generate ONE standalone portrait 3:4 photorealistic editorial service photograph, scene 3: YOU UNPACK. Reference1 establishes same woman (shoulder-length brown hair, cream long sleeve shirt, blue jeans), exact grey ribbed Borrow A Box totes, cast and soft natural campaign style. Reference2 is her matching packing scene. Reference3 is actual real tote product shape. Now inside a DIFFERENT new bright New Jersey home with pale walls and light oak flooring: woman is lifting a small stack of books OUT of an OPEN grey attached-lid reusable tote onto an otherwise mostly empty low oak bookshelf. Make the outward unpacking action unmistakable, new beginning relaxed mood, a healthy potted plant beside shelf and two closed grey totes in background. Hinged lid halves fold outward, correct geometry and natural hands, realistic scale. Eye-level 35mm soft daylight, natural texture, warm cream blue grey continuity. Keep woman's face, hands and main tote centered to survive square crop. No cardboard boxes, no text overlays, no collage, no watermark or extra branding; small original blue black stickers only."
+    },
+    {
+      "file": "04-pickup.png",
+      "prompt": "Generate ONE standalone portrait 3:4 photorealistic editorial campaign photograph, scene 4 of a coherent Borrow A Box service story: WE PICK UP. Reference1 establishes exact same short dark curly hair, light stubble adult male courier in cobalt-blue work overshirt/dark trousers and same brown-haired woman in cream long sleeve shirt/blue jeans; match cast faces and natural photography. Reference2 is the woman's new bright home after unpacking. Reference3 actual grey ribbed attached-lid totes on low black four-wheel dolly, retain exact product and small original blue black logo stickers. At the NEW home's front doorstep (warm oak door, pale siding), courier collects EMPTY totes: several empty matching totes neatly nested with hinged lids open on the black dolly, woman casually hands him the final empty tote. Clearly collection after completion, relaxed friendly smiles, no handshake. Natural anatomy and believable handling. Soft morning daylight, 35mm eye-level documentary, warm cream grey blue palette consistent across series. Main tote action and faces inside center75%, survive square crop. No cardboard, text overlays, numbers, watermarks, collage, borders or extra logos."
+    }
+  ],
+  "webAssets": [
+    "01-deliver.jpg",
+    "02-pack.jpg",
+    "03-unpack.jpg",
+    "04-pickup.jpg"
+  ],
+  "optimization": "JPEG quality 88; original full-resolution PNGs retained alongside web copies."
+}
