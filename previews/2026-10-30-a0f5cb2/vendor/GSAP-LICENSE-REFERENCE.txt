@@ -1,0 +1,8 @@
+GSAP 3.13.0 and ScrollTrigger 3.13.0
+Copyright GreenSock / GSAP. All rights reserved.
+
+These distributions retain the upstream notices in their file headers.
+GSAP is not MIT-licensed. Usage and redistribution are governed by:
+https://gsap.com/standard-license/
+
+Review the current official terms before using these files in production.
